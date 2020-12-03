@@ -4,7 +4,13 @@
 
 最新版本：v0.3.0
 
-- 下载：前往 https://github.com/DeltaGreenCHN/Handlers-Guide/releases/latest ，下载zip文件。
+亮点：
+- 完整：展示DG人物卡的所有要点（属性、衍生属性、技能、适应性、特训、重要关系……）
+- 简洁：一个屏幕内就能完全显示！
+- 支持查询职业模板和可选额外技能包。
+- 支持输出骰子属性设置指令
+
+下载：前往 https://github.com/DeltaGreenCHN/Handlers-Guide/releases/latest ，下载zip文件。
 
 <img src="https://raw.githubusercontent.com/DeltaGreenCHN/Character-Sheet/main/header.png" width="700">
 
