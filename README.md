@@ -2,7 +2,7 @@
 
 用于《绿色三角洲TRPG》网团的Excel半自动人物卡。
 
-最新版本：v0.3.0
+最新版本：v0.2.1
 
 - 下载：前往 https://github.com/DeltaGreenCHN/Handlers-Guide/releases/latest ，下载zip文件。
 
