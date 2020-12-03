@@ -6,7 +6,7 @@
 
 - 下载：前往 https://github.com/DeltaGreenCHN/Handlers-Guide/releases/latest ，下载zip文件。
 
-![Banner](/header.png)
+<img src="https://raw.githubusercontent.com/DeltaGreenCHN/Character-Sheet/main/header.png" width="700">
 
 ### 如何订阅更新？
 
