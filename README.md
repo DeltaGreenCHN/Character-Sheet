@@ -10,7 +10,7 @@
 - 支持查询职业模板和可选额外技能包。
 - 支持输出骰子属性设置指令
 
-下载：前往 https://github.com/DeltaGreenCHN/Handlers-Guide/releases/latest ，下载zip文件。
+下载：前往 https://github.com/DeltaGreenCHN/Character-Sheet/releases/latest ，下载zip文件。
 
 <img src="https://raw.githubusercontent.com/DeltaGreenCHN/Character-Sheet/main/header.png" width="700">
 
