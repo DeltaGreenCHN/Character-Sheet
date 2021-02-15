@@ -24,7 +24,7 @@
 
 ### 如何提出问题或建议？
 
-前往 https://github.com/DeltaGreenCHN/Handlers-Guide/issues/new 。
+前往 https://github.com/DeltaGreenCHN/Character-Sheet/issues/new 。
 
 ### 其他事宜联系？
 
